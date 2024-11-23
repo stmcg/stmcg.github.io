@@ -25,6 +25,8 @@ Chiu, YH, Yland JJ, Rinaudo P, Hsu J, **McGrath S**, Hernández-Díaz S, Hernán
 
 Wang G, **McGrath S**, Lian Y, Dahabreh IJ. [CausalMetaR: An R package for performing causally interpretable meta-analyses](https://arxiv.org/abs/2402.04341). *arXiv* (pre-print). 2024+.
 
+de Vries TAC, Mallick IU, Bhagirath VC, Eikelboom JW, Gomes C, Yi Q, **McGrath S**, Hirsh J, Chan NC. [Ranges of drug concentrations in patients with atrial fibrillation treated with direct oral anticoagulants: a systematic review and meta-analysis](https://doi.org/10.1055/a-2446-1348). *Thrombosis and Haemostasis*. 2024 Nov 21 [Epub ahead of print].
+
 Iskander R, Moyer H, Fergusson D, **McGrath S**, Benedetti A, Kimmelman J. [The benefits and risks of receiving investigational solid tumour drugs in randomized trials: A systematic review and meta-analysis](https://doi.org/10.7326/M23-2515). *Annals of Internal Medicine*. 2024; 177: 759-767.
 
 **McGrath S**, Zhao XF, Ozturk O, Katzenschlager S, Steele R, Benedetti A. [metamedian: An R package for meta-analyzing studies reporting medians](https://doi.org/10.1002/jrsm.1686). *Research Synthesis Methods*. 2024; 15: 332-346.
