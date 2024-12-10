@@ -14,3 +14,4 @@ I have developed and maintain the following packages:
 Other packages I have contributed to are:
 
 *  [pygformula](https://pypi.org/project/pygformula): A Python package for the parametric g-formula
+*  [gfoRmulaICE](https://CRAN.R-project.org/package=gfoRmulaICE): A R package for the parametric iterative conditional expectation g-formula
