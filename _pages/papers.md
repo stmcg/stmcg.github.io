@@ -23,7 +23,9 @@ Chiu, YH, Yland JJ, Rinaudo P, Hsu J, **McGrath S**, Hernández-Díaz S, Hernán
 
 ## Evidence Synthesis
 
-Wang G, **McGrath S**, Lian Y, Dahabreh IJ. [CausalMetaR: An R package for performing causally interpretable meta-analyses](https://arxiv.org/abs/2402.04341). *arXiv* (pre-print). 2024+.
+**McGrath S**, Zhu C, Guo M, Duan R. [LEARNER: A transfer learning method for low-rank matrix estimation](https://arxiv.org/abs/2412.20605). *arXiv* (pre-print). 2024+.
+
+Wang G, **McGrath S**, Lian Y. [CausalMetaR: An R package for performing causally interpretable meta-analyses](https://arxiv.org/abs/2402.04341). *Research Synthesis Methods*. In press.
 
 de Vries TAC, Mallick IU, Bhagirath VC, Eikelboom JW, Gomes C, Yi Q, **McGrath S**, Hirsh J, Chan NC. [Usual on-therapy ranges of drug concentrations in patients with atrial fibrillation treated with direct oral anticoagulants: A systematic review and meta-analysis](https://doi.org/10.1055/a-2446-1348). *Thrombosis and Haemostasis*. 2024 Nov 21 [Epub ahead of print].
 
