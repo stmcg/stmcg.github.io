@@ -7,4 +7,4 @@ author_profile: true
 
 {% include base_path %}
 
-Please find my CV [here](/files/cv-09-29-2024.pdf) (last updated: 09/2024). 
+Please find my CV [here](/files/cv.pdf) (last updated: 01/2025). 
