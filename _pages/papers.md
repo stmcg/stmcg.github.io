@@ -7,7 +7,7 @@ See my [CV](/files/cv-09-29-2024.pdf) or [Google Scholar page](https://scholar.g
 
 ## Causal Inference
 
-**McGrath S**, Mukherjee R. [Nuisance function tuning and sample splitting for optimal doubly robust estimation](https://arxiv.org/abs/2212.14857). *arXiv* (pre-print). 2024+. 
+**McGrath S**, Mukherjee R. [Nuisance function tuning and sample splitting for optimal doubly robust estimation](https://arxiv.org/abs/2212.14857). *arXiv* (pre-print). 
 
 **McGrath S**, Mukherjee R, Réquia WJ, Lee WC. [Wildfire exposure and academic performance in Brazil: A causal inference approach for spatiotemporal data](https://doi.org/10.1016/j.scitotenv.2023.167625). *Science of the Total Environment*. 2023; 905: 167625.
 
@@ -23,7 +23,9 @@ Chiu, YH, Yland JJ, Rinaudo P, Hsu J, **McGrath S**, Hernández-Díaz S, Hernán
 
 ## Evidence Synthesis
 
-**McGrath S**, Zhu C, Guo M, Duan R. [LEARNER: A transfer learning method for low-rank matrix estimation](https://arxiv.org/abs/2412.20605). *arXiv* (pre-print). 2024+.
+**McGrath S**, Zhu C, Guo M, Duan R. [LEARNER: A transfer learning method for low-rank matrix estimation](https://arxiv.org/abs/2412.20605). *arXiv* (pre-print).
+
+**McGrath S**, Kimmelman J, Ozturk O, Steele R, Benedetti A. [Meta-analysis of median survival times with inverse-variance weighting](https://arxiv.org/abs/2503.03065). *arXiv* (pre-print).
 
 Wang G, **McGrath S**, Lian Y. [CausalMetaR: An R package for performing causally interpretable meta-analyses](https://arxiv.org/abs/2402.04341). *Research Synthesis Methods*. In press.
 
