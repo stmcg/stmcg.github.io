@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm a postdoctoral research fellow in the [Department of Population Medicine](https://www.populationmedicine.org/) at Harvard Medical School and Harvard Pilgrim Health Care Institute. 
+I'm a postdoctoral researcher in the [Department of Biostatistics](https://ysph.yale.edu/public-health-research-and-practice/department-research/biostatistics/) at Yale School of Public Health. Previously, I was a postdoctoral researcher in the [Department of Population Medicine](https://www.populationmedicine.org/) at Harvard Medical School and Harvard Pilgrim Health Care Institute. 
 
-I'm a biostatistician and my research focuses on developing and applying statistical methods for causal inference and evidence synthesis. I also actively work on developing open-source statistical software in these domains.
+My research focuses on developing and applying statistical methods for causal inference and data integration. I also actively work on developing open-source statistical software in these domains.
 
 
 ## Education

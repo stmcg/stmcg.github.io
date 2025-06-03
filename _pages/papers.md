@@ -3,7 +3,7 @@ permalink: /papers/
 title:  ""
 ---
 
-See my [CV](/files/cv-09-29-2024.pdf) or [Google Scholar page](https://scholar.google.com/citations?user=t8KnAUsAAAAJ&hl=en) for a complete list of my publications and pre-prints. Selected works are listed below.
+See my [CV](/files/cv.pdf) or [Google Scholar page](https://scholar.google.com/citations?user=t8KnAUsAAAAJ&hl=en) for a complete list of my publications and pre-prints. Selected works are listed below.
 
 ## Causal Inference
 
@@ -21,15 +21,15 @@ Chiu, YH, Yland JJ, Rinaudo P, Hsu J, **McGrath S**, Hernández-Díaz S, Hernán
 
 
 
-## Evidence Synthesis
+## Data Integration
 
 **McGrath S**, Zhu C, Guo M, Duan R. [LEARNER: A transfer learning method for low-rank matrix estimation](https://arxiv.org/abs/2412.20605). *arXiv* (pre-print).
 
 **McGrath S**, Kimmelman J, Ozturk O, Steele R, Benedetti A. [Meta-analysis of median survival times with inverse-variance weighting](https://arxiv.org/abs/2503.03065). *arXiv* (pre-print).
 
-Wang G, **McGrath S**, Lian Y. [CausalMetaR: An R package for performing causally interpretable meta-analyses](https://arxiv.org/abs/2402.04341). *Research Synthesis Methods*. In press.
+de Vries TAC, Mallick IU, Bhagirath VC, Eikelboom JW, Gomes C, Yi Q, **McGrath S**, Hirsh J, Chan NC. [Usual on-therapy ranges of drug concentrations in patients with atrial fibrillation treated with direct oral anticoagulants: A systematic review and meta-analysis](https://doi.org/10.1055/a-2446-1348). *Thrombosis and Haemostasis*. 2025; 125: 563-573.
 
-de Vries TAC, Mallick IU, Bhagirath VC, Eikelboom JW, Gomes C, Yi Q, **McGrath S**, Hirsh J, Chan NC. [Usual on-therapy ranges of drug concentrations in patients with atrial fibrillation treated with direct oral anticoagulants: A systematic review and meta-analysis](https://doi.org/10.1055/a-2446-1348). *Thrombosis and Haemostasis*. 2024 Nov 21 [Epub ahead of print].
+Wang G, **McGrath S**, Lian Y. [CausalMetaR: An R package for performing causally interpretable meta-analyses](https://doi.org/10.1017/rsm.2025.5). *Research Synthesis Methods*. 2025; 16: 425-440. [[Erratum](https://doi.org/10.1017/rsm.2025.22) in: *Research Synthesis Methods*. 2025; 16: 441-441]
 
 Iskander R, Moyer H, Fergusson D, **McGrath S**, Benedetti A, Kimmelman J. [The benefits and risks of receiving investigational solid tumour drugs in randomized trials: A systematic review and meta-analysis](https://doi.org/10.7326/M23-2515). *Annals of Internal Medicine*. 2024; 177: 759-767.
 
