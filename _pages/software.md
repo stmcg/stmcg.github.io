@@ -12,6 +12,10 @@ I have developed and maintain the following packages:
 *  [metamedian](https://CRAN.R-project.org/package=metamedian): An R package for meta-analyzing studies reporting medians
 *  [estmeansd](https://CRAN.R-project.org/package=estmeansd): An R package for estimating mean and standard deviations from commonly reported quantiles in meta-analysis
 
+I am currently developing the following packages: 
+
+*  [smoothedIPW](https://github.com/stmcg/smoothedIPW): An R package for time-smoothed inverse probability weighting for repeatedly measured outcomes
+*  [iai](https://github.com/stmcg/iai): An R package for incomplete auxiliaries in imputation
 
 Other packages I have contributed to are:
 
