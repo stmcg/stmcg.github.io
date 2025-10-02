@@ -7,7 +7,15 @@ See my [CV](/files/cv.pdf) or [Google Scholar page](https://scholar.google.com/c
 
 ## Causal Inference
 
+**McGrath S**, Kawahara T, Petimar J, Rifas-Shiman SL, Díaz I, Block JP, Young JG. [Time-smoothed inverse probability weighted estimation of effects of generalized time-varying treatment strategies on repeated outcomes truncated by death](https://doi.org/10.48550/arXiv.2509.13971). *arXiv* (pre-print). 
+
+Wang Y, Lin YT, **McGrath S**, Meeker JD, Park SK, Warren JL, Mukherjee B. [A tutorial on conducting mediation analysis with exposure mixtures](https://doi.org/10.48550/arXiv.2509.10916). *arXiv* (pre-print). 
+
 **McGrath S**, Mukherjee R. [Nuisance function tuning and sample splitting for optimal doubly robust estimation](https://arxiv.org/abs/2212.14857). *arXiv* (pre-print). 
+
+**McGrath S**, Mukherjee D, Mukherjee R, Wang ZJ. [Optimal nuisance function tuning for estimating a doubly robust functional under proportional asymptotics](https://doi.org/10.48550/arXiv.2509.25536). *Advances in Neural Information Processing Systems (NeurIPS)*. Forthcoming. 
+
+Al Tawil A, **McGrath S**, Ristl R, Mansmann U. [Addressing treatment switching in the ALTA-1L trial with g-methods: Exploring the impact of model specification](https://doi.org/10.1186/s12874-024-02437-6). *BMC Medical Research Methodology*. 2024; 24: 314.
 
 **McGrath S**, Mukherjee R, Réquia WJ, Lee WC. [Wildfire exposure and academic performance in Brazil: A causal inference approach for spatiotemporal data](https://doi.org/10.1016/j.scitotenv.2023.167625). *Science of the Total Environment*. 2023; 905: 167625.
 
@@ -23,7 +31,7 @@ Chiu, YH, Yland JJ, Rinaudo P, Hsu J, **McGrath S**, Hernández-Díaz S, Hernán
 
 ## Data Integration
 
-**McGrath S**, Zhu C, Guo M, Duan R. [LEARNER: A transfer learning method for low-rank matrix estimation](https://arxiv.org/abs/2412.20605). *arXiv* (pre-print).
+**McGrath S**, Zhu C, O'Dea R, Guo M, Duan R. [LEARNER: A transfer learning method for low-rank matrix estimation](https://arxiv.org/abs/2412.20605). *arXiv* (pre-print).
 
 **McGrath S**, Kimmelman J, Ozturk O, Steele R, Benedetti A. [Meta-analysis of median survival times with inverse-variance weighting](https://arxiv.org/abs/2503.03065). *arXiv* (pre-print).
 
