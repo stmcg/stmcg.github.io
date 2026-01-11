@@ -7,11 +7,13 @@ See my [CV](/files/cv.pdf) or [Google Scholar page](https://scholar.google.com/c
 
 ## Causal Inference
 
+**McGrath S**, Mukherjee R. [Nuisance function tuning and sample splitting for optimal doubly robust estimation](https://arxiv.org/abs/2212.14857). *arXiv* (pre-print). 
+
 **McGrath S**, Kawahara T, Petimar J, Rifas-Shiman SL, Díaz I, Block JP, Young JG. [Time-smoothed inverse probability weighted estimation of effects of generalized time-varying treatment strategies on repeated outcomes truncated by death](https://doi.org/10.48550/arXiv.2509.13971). *arXiv* (pre-print). 
 
-Wang Y, Lin YT, **McGrath S**, Meeker JD, Park SK, Warren JL, Mukherjee B. [A tutorial on conducting mediation analysis with exposure mixtures](https://doi.org/10.48550/arXiv.2509.10916). *arXiv* (pre-print). 
+Kawahara T, **McGrath S**, Young JG. [Illustrating implications of misaligned questions and statistics with competing events and interest in treatment mechanisms](https://doi.org/10.48550/arXiv.2510.24018). *arXiv* (pre-print). 
 
-**McGrath S**, Mukherjee R. [Nuisance function tuning and sample splitting for optimal doubly robust estimation](https://arxiv.org/abs/2212.14857). *arXiv* (pre-print). 
+Wang Y, Lin YT, **McGrath S**, Meeker JD, Park SK, Warren JL, Mukherjee B. [A tutorial on conducting mediation analysis with exposure mixtures](https://doi.org/10.48550/arXiv.2509.10916). *arXiv* (pre-print). 
 
 **McGrath S**, Mukherjee D, Mukherjee R, Wang ZJ. [Optimal nuisance function tuning for estimating a doubly robust functional under proportional asymptotics](https://doi.org/10.48550/arXiv.2509.25536). *Advances in Neural Information Processing Systems (NeurIPS)*. Forthcoming. 
 
@@ -19,9 +21,9 @@ Al Tawil A, **McGrath S**, Ristl R, Mansmann U. [Addressing treatment switching 
 
 **McGrath S**, Mukherjee R, Réquia WJ, Lee WC. [Wildfire exposure and academic performance in Brazil: A causal inference approach for spatiotemporal data](https://doi.org/10.1016/j.scitotenv.2023.167625). *Science of the Total Environment*. 2023; 905: 167625.
 
-Chiu, YH, Wen, L, **McGrath S**, Logan R, Dahabreh IJ, Hernán, MA. [Evaluating model specification when using the parametric g-formula in the presence of censoring](https://doi.org/10.1093/aje/kwad143). *American Journal of Epidemiology*. 2023; 192: 1887-1895.
+Chiu YH, Wen, L, **McGrath S**, Logan R, Dahabreh IJ, Hernán, MA. [Evaluating model specification when using the parametric g-formula in the presence of censoring](https://doi.org/10.1093/aje/kwad143). *American Journal of Epidemiology*. 2023; 192: 1887-1895.
 
-Chiu, YH, Yland JJ, Rinaudo P, Hsu J, **McGrath S**, Hernández-Díaz S, Hernán MA. [Effectiveness and safety of intrauterine insemination vs. assisted reproductive technology: Emulating a target trial using an observational database of administrative claims](https://doi.org/10.1016/j.fertnstert.2022.02.003). *Fertility and Sterility*. 2022; 117: 981-991.
+Chiu YH, Yland JJ, Rinaudo P, Hsu J, **McGrath S**, Hernández-Díaz S, Hernán MA. [Effectiveness and safety of intrauterine insemination vs. assisted reproductive technology: Emulating a target trial using an observational database of administrative claims](https://doi.org/10.1016/j.fertnstert.2022.02.003). *Fertility and Sterility*. 2022; 117: 981-991.
 
 **McGrath S**, Young JG, Hernán MA. [Revisiting the g-null paradox](https://doi.org/10.1097/EDE.0000000000001431). *Epidemiology*. 2022; 33: 114-120.
 
