@@ -13,9 +13,7 @@ See my [CV](/files/cv.pdf) or [Google Scholar page](https://scholar.google.com/c
 
 Kawahara T, **McGrath S**, Young JG. [Illustrating implications of misaligned questions and statistics with competing events and interest in treatment mechanisms](https://doi.org/10.48550/arXiv.2510.24018). *arXiv* (pre-print). 
 
-Wang Y, Lin YT, **McGrath S**, Meeker JD, Park SK, Warren JL, Mukherjee B. [A tutorial on conducting mediation analysis with exposure mixtures](https://doi.org/10.48550/arXiv.2509.10916). *arXiv* (pre-print). 
-
-**McGrath S**, Mukherjee D, Mukherjee R, Wang ZJ. [Optimal nuisance function tuning for estimating a doubly robust functional under proportional asymptotics](https://doi.org/10.48550/arXiv.2509.25536). *Advances in Neural Information Processing Systems (NeurIPS)*. Forthcoming. 
+**McGrath S**, Mukherjee D, Mukherjee R, Wang ZJ. [Optimal nuisance function tuning for estimating a doubly robust functional under proportional asymptotics](https://doi.org/10.48550/arXiv.2509.25536). *Advances in Neural Information Processing Systems (NeurIPS)*. Spotlight paper. 2025; 38: 1-73.
 
 Al Tawil A, **McGrath S**, Ristl R, Mansmann U. [Addressing treatment switching in the ALTA-1L trial with g-methods: Exploring the impact of model specification](https://doi.org/10.1186/s12874-024-02437-6). *BMC Medical Research Methodology*. 2024; 24: 314.
 
@@ -35,7 +33,7 @@ Chiu YH, Yland JJ, Rinaudo P, Hsu J, **McGrath S**, Hernández-Díaz S, Hernán 
 
 **McGrath S**, Zhu C, O'Dea R, Guo M, Duan R. [LEARNER: A transfer learning method for low-rank matrix estimation](https://arxiv.org/abs/2412.20605). *arXiv* (pre-print).
 
-**McGrath S**, Kimmelman J, Ozturk O, Steele R, Benedetti A. [Meta-analysis of median survival times with inverse-variance weighting](https://arxiv.org/abs/2503.03065). *arXiv* (pre-print).
+**McGrath S**, Yang CH, Kimmelman J, Ozturk O, Steele R, Benedetti A. [Meta-analysis of median survival times with inverse-variance weighting](https://doi.org/10.48550/arXiv.2503.03065). *Statistics in Medicine*. In press.
 
 de Vries TAC, Mallick IU, Bhagirath VC, Eikelboom JW, Gomes C, Yi Q, **McGrath S**, Hirsh J, Chan NC. [Usual on-therapy ranges of drug concentrations in patients with atrial fibrillation treated with direct oral anticoagulants: A systematic review and meta-analysis](https://doi.org/10.1055/a-2446-1348). *Thrombosis and Haemostasis*. 2025; 125: 563-573.
 
