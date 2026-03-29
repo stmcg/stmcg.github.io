@@ -9,7 +9,7 @@ redirect_from:
 
 I'm a postdoctoral researcher in the [Department of Biostatistics](https://ysph.yale.edu/public-health-research-and-practice/department-research/biostatistics/) at Yale School of Public Health. Previously, I was a postdoctoral researcher in the [Department of Population Medicine](https://www.populationmedicine.org/) at Harvard Medical School and Harvard Pilgrim Health Care Institute.
 
-I received my Ph.D. in Biostatistics from Harvard University in 2024, advised by [Rajarshi Mukherjee](https://rajarshi-mukherjee24.github.io/). Prior to that, I completed a B.Sc. in Mathematics at McGill University in 2018.
+I received my Ph.D. in Biostatistics from Harvard University, advised by [Rajarshi Mukherjee](https://rajarshi-mukherjee24.github.io/). Prior to that, I completed a B.Sc. in Mathematics at McGill University.
 
 My research focuses on developing and applying statistical methods for causal inference and data integration. I also actively work on developing open-source statistical software in these domains.
 

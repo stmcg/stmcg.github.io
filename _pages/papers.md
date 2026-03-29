@@ -13,6 +13,8 @@ See my [CV](/files/cv.pdf) or [Google Scholar page](https://scholar.google.com/c
 
 Kawahara T, **McGrath S**, Young JG. [Illustrating implications of misaligned questions and statistics with competing events and interest in treatment mechanisms](https://doi.org/10.48550/arXiv.2510.24018). *arXiv* (pre-print). 
 
+Mathur MB, Seaman S, Zhang W, **McGrath S**, Shpitser I. [Estimating conditional means under missingness-not-at-random with incomplete auxiliary variables](https://doi.org/10.13140/RG.2.2.30750.19524). Pre-print.
+
 **McGrath S**, Mukherjee D, Mukherjee R, Wang ZJ. [Optimal nuisance function tuning for estimating a doubly robust functional under proportional asymptotics](https://doi.org/10.48550/arXiv.2509.25536). *Advances in Neural Information Processing Systems (NeurIPS)*. Spotlight paper. 2025; 38: 1-73.
 
 Al Tawil A, **McGrath S**, Ristl R, Mansmann U. [Addressing treatment switching in the ALTA-1L trial with g-methods: Exploring the impact of model specification](https://doi.org/10.1186/s12874-024-02437-6). *BMC Medical Research Methodology*. 2024; 24: 314.
