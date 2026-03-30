@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I'm a postdoctoral researcher in the [Department of Biostatistics](https://ysph.yale.edu/public-health-research-and-practice/department-research/biostatistics/) at Yale School of Public Health. Previously, I was a postdoctoral researcher in the [Department of Population Medicine](https://www.populationmedicine.org/) at Harvard Medical School and Harvard Pilgrim Health Care Institute.
+I'm an incoming assistant professor in the [Department of Statistics and Data Science](https://sds.wustl.edu/) and the [School of Public Health](https://publichealth.washu.edu/) at Washington University in St. Louis. My research focuses on developing and applying statistical methods for causal inference and data integration (meta-analysis, transfer learning, transportability). I also actively work on developing open-source statistical software in these domains.
 
-I received my Ph.D. in Biostatistics from Harvard University, advised by [Rajarshi Mukherjee](https://rajarshi-mukherjee24.github.io/). Prior to that, I completed a B.Sc. in Mathematics at McGill University.
+I'm currently a postdoctoral researcher in the [Department of Biostatistics](https://ysph.yale.edu/public-health-research-and-practice/department-research/biostatistics/) at Yale School of Public Health. Previously, I was a postdoctoral researcher in the [Department of Population Medicine](https://www.populationmedicine.org/) at Harvard Medical School and Harvard Pilgrim Health Care Institute. I received my Ph.D. in Biostatistics from Harvard University, advised by [Rajarshi Mukherjee](https://rajarshi-mukherjee24.github.io/). Prior to that, I completed a B.Sc. in Mathematics at McGill University.
 
-My research focuses on developing and applying statistical methods for causal inference and data integration. I also actively work on developing open-source statistical software in these domains.
+
 
 ## Selected Papers
 
