@@ -12,7 +12,7 @@ I have developed and maintain the following packages:
 *  [learner](https://CRAN.R-project.org/package=learner): An R package for latent space-based transfer learning
 *  [learner-py](https://pypi.org/project/learner-py/): A Python package for latent space-based transfer learning
 *  [metamedian](https://CRAN.R-project.org/package=metamedian): An R package for meta-analyzing studies reporting medians
-*  [estmeansd](https://CRAN.R-project.org/package=estmeansd): An R package for estimating mean and standard deviations from commonly reported quantiles in meta-analysis
+*  [estmeansd](https://CRAN.R-project.org/package=estmeansd): An R package for estimating means and standard deviations from commonly reported quantiles in meta-analysis
 
 Other packages I have contributed to are:
 

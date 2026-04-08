@@ -3,7 +3,7 @@ permalink: /papers/
 title:  ""
 ---
 
-See my [CV](/files/cv.pdf) or [Google Scholar page](https://scholar.google.com/citations?user=t8KnAUsAAAAJ&hl=en) for a complete list of my publications and pre-prints. Selected works are listed below.
+See my [Google Scholar page](https://scholar.google.com/citations?user=t8KnAUsAAAAJ&hl=en) for a complete list of my publications and pre-prints. Selected works are listed below.
 
 ## Causal Inference
 
@@ -37,6 +37,8 @@ Chiu YH, Yland JJ, Rinaudo P, Hsu J, **McGrath S**, Hernández-Díaz S, Hernán 
 
 **McGrath S**, Yang CH, Kimmelman J, Ozturk O, Steele R, Benedetti A. [Meta-analysis of median survival times with inverse-variance weighting](https://doi.org/10.48550/arXiv.2503.03065). *Statistics in Medicine*. In press.
 
+Brümmer LE, Faehling V, **McGrath S**, Zorger AM, Worbes K, Erdmann C, Tolle H, Katzenschlager S, Yerlikaya S, Grilli M, Pollock NR, Erkosar B, Macé A, Ongarello S, Johnson CC, Sacks JA, Cunningham J, Skoetz N, Denkinger CM, Lee RA. [Population health and implementation outcomes of self-testing for SARS-CoV-2 using antigen detecting diagnostics: a systematic review and meta-analysis](https://doi.org/10.1016/j.eclinm.2026.103838). *eClinicalMedicine*. 2026; 94: 103838.
+
 de Vries TAC, Mallick IU, Bhagirath VC, Eikelboom JW, Gomes C, Yi Q, **McGrath S**, Hirsh J, Chan NC. [Usual on-therapy ranges of drug concentrations in patients with atrial fibrillation treated with direct oral anticoagulants: A systematic review and meta-analysis](https://doi.org/10.1055/a-2446-1348). *Thrombosis and Haemostasis*. 2025; 125: 563-573.
 
 Wang G, **McGrath S**, Lian Y. [CausalMetaR: An R package for performing causally interpretable meta-analyses](https://doi.org/10.1017/rsm.2025.5). *Research Synthesis Methods*. 2025; 16: 425-440. [[Erratum](https://doi.org/10.1017/rsm.2025.22) in: *Research Synthesis Methods*. 2025; 16: 441-441]
@@ -51,9 +53,10 @@ Lee JH, Garg T, Lee J, **McGrath S**, Rosman L, Schumacher SG, Benedetti A, Qin 
 
 Brümmer LE, Katzenschlager S, **McGrath S**, Schmitz S, Gaeddert M, Erdmann C, Bota M, Grilli M, Larmann J, Weigand MA, Pollock NR, Macé A, Erkosar B, Carmona S, Sacks JA, Ongarello S, Denkinger CM. [Accuracy of rapid point-of-care antigen-based diagnostics for SARS-CoV-2: An updated systematic review and meta-analysis with meta-regression analyzing influencing factors](https://doi.org/10.1371/journal.pmed.1004011). *PLOS Medicine*. 2022; 19: e1004011.
 
+
 Zimmer AJ, Lainati F, Aguilera Vasquez N, Chedid C, **McGrath S**, Benedetti A, MacLean E, Ruhwald M, Denkinger CM, Kohli M. [Biomarkers that correlate with active pulmonary tuberculosis treatment response: A systematic review and meta-analysis](https://doi.org/10.1128/JCM.01859-21). *Journal of Clinical Microbiology*. 2022; 60: e01859-21.
 
-Katzenschlager S, Zimmer AJ, Gottschalk C, Grafeneder J, Seitel A, Maier-Hein L, Benedetti A, Larmann J, Weigand MA,  **McGrath S**, Denkinger CM. [Can we predict the severe course of COVID-19 - A systematic review and meta-analysis of indicators of clinical outcome?](https://doi.org/10.1371/journal.pone.0255154) *PLOS One*. 2021; 16: e0255154.
+Katzenschlager S, Zimmer AJ, Gottschalk C, Grafeneder J, Seitel A, Maier-Hein L, Benedetti A, Larmann J, Weigand MA, **McGrath S**, Denkinger CM. [Can we predict the severe course of COVID-19 - A systematic review and meta-analysis of indicators of clinical outcome?](https://doi.org/10.1371/journal.pone.0255154) *PLOS One*. 2021; 16: e0255154.
 
 **McGrath S**, Zhao XF, Steele R, Thombs BD, Benedetti A, and the DEPRESsion Screening Data (DEPRESSD) Collaboration. [Estimating the sample mean and standard deviation from commonly reported quantiles in meta-analysis](https://doi.org/10.1177/0962280219889080). *Statistical Methods in Medical Research*. 2020; 29: 2520-2537.
 
