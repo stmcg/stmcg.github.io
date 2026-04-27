@@ -13,7 +13,7 @@ See my [Google Scholar page](https://scholar.google.com/citations?user=t8KnAUsAA
 
 Mathur MB, Seaman S, Zhang W, **McGrath S**, Shpitser I. [Estimating conditional means under missingness-not-at-random with incomplete auxiliary variables](https://doi.org/10.13140/RG.2.2.30750.19524). Pre-print.
 
-Kawahara T, **McGrath S**, Young JG. [Illustrating implications of misaligned questions and statistics with competing events and interest in treatment mechanisms](https://doi.org/10.48550/arXiv.2510.24018). *Statistics in Medicine*. In press. 
+Kawahara T, **McGrath S**, Young JG. [Illustrating implications of misaligned questions and statistics with competing events and interest in treatment mechanisms](https://doi.org/10.1002/sim.70535). *Statistics in Medicine*. 2026; 45: 70535. 
 
 **McGrath S**, Mukherjee D, Mukherjee R, Wang ZJ. [Optimal nuisance function tuning for estimating a doubly robust functional under proportional asymptotics](https://doi.org/10.48550/arXiv.2509.25536). *Advances in Neural Information Processing Systems (NeurIPS)*. Spotlight paper. 2025; 38: 1-73.
 
@@ -35,7 +35,7 @@ Chiu YH, Yland JJ, Rinaudo P, Hsu J, **McGrath S**, Hernández-Díaz S, Hernán 
 
 **McGrath S**, Zhu C, O'Dea R, Guo M, Duan R. [LEARNER: A transfer learning method for low-rank matrix estimation](https://arxiv.org/abs/2412.20605). *arXiv* (pre-print).
 
-**McGrath S**, Yang CH, Kimmelman J, Ozturk O, Steele R, Benedetti A. [Meta-analysis of median survival times with inverse-variance weighting](https://doi.org/10.48550/arXiv.2503.03065). *Statistics in Medicine*. In press.
+**McGrath S**, Yang CH, Kimmelman J, Ozturk O, Steele R, Benedetti A. [Meta-analysis of median survival times with inverse-variance weighting](https://doi.org/10.1002/sim.70533). *Statistics in Medicine*. 2026; 45: e70533.
 
 Brümmer LE, Faehling V, **McGrath S**, Zorger AM, Worbes K, Erdmann C, Tolle H, Katzenschlager S, Yerlikaya S, Grilli M, Pollock NR, Erkosar B, Macé A, Ongarello S, Johnson CC, Sacks JA, Cunningham J, Skoetz N, Denkinger CM, Lee RA. [Population health and implementation outcomes of self-testing for SARS-CoV-2 using antigen detecting diagnostics: a systematic review and meta-analysis](https://doi.org/10.1016/j.eclinm.2026.103838). *eClinicalMedicine*. 2026; 94: 103838.
 
