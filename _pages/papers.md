@@ -15,13 +15,13 @@ Mathur MB, Seaman S, Zhang W, **McGrath S**, Shpitser I. [Estimating conditional
 
 Kawahara T, **McGrath S**, Young JG. [Illustrating implications of misaligned questions and statistics with competing events and interest in treatment mechanisms](https://doi.org/10.1002/sim.70535). *Statistics in Medicine*. 2026; 45: 70535. 
 
-**McGrath S**, Mukherjee D, Mukherjee R, Wang ZJ. [Optimal nuisance function tuning for estimating a doubly robust functional under proportional asymptotics](https://doi.org/10.48550/arXiv.2509.25536). *Advances in Neural Information Processing Systems (NeurIPS)*. Spotlight paper. 2025; 38: 1-73.
+**McGrath S**, Mukherjee D, Mukherjee R, Wang ZJ. [Optimal nuisance function tuning for estimating a doubly robust functional under proportional asymptotics](https://doi.org/10.48550/arXiv.2509.25536). *Advances in Neural Information Processing Systems (NeurIPS)*. Spotlight paper. 2025; 38: 90233-90305.
 
 Al Tawil A, **McGrath S**, Ristl R, Mansmann U. [Addressing treatment switching in the ALTA-1L trial with g-methods: Exploring the impact of model specification](https://doi.org/10.1186/s12874-024-02437-6). *BMC Medical Research Methodology*. 2024; 24: 314.
 
 **McGrath S**, Mukherjee R, Réquia WJ, Lee WC. [Wildfire exposure and academic performance in Brazil: A causal inference approach for spatiotemporal data](https://doi.org/10.1016/j.scitotenv.2023.167625). *Science of the Total Environment*. 2023; 905: 167625.
 
-Chiu YH, Wen, L, **McGrath S**, Logan R, Dahabreh IJ, Hernán, MA. [Evaluating model specification when using the parametric g-formula in the presence of censoring](https://doi.org/10.1093/aje/kwad143). *American Journal of Epidemiology*. 2023; 192: 1887-1895.
+Chiu YH, Wen L, **McGrath S**, Logan R, Dahabreh IJ, Hernán MA. [Evaluating model specification when using the parametric g-formula in the presence of censoring](https://doi.org/10.1093/aje/kwad143). *American Journal of Epidemiology*. 2023; 192: 1887-1895.
 
 Chiu YH, Yland JJ, Rinaudo P, Hsu J, **McGrath S**, Hernández-Díaz S, Hernán MA. [Effectiveness and safety of intrauterine insemination vs. assisted reproductive technology: Emulating a target trial using an observational database of administrative claims](https://doi.org/10.1016/j.fertnstert.2022.02.003). *Fertility and Sterility*. 2022; 117: 981-991.
 
