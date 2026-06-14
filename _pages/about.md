@@ -15,7 +15,7 @@ Previously, I was a postdoctoral researcher in the [Department of Biostatistics]
 
 ## Selected Papers
 
-* **McGrath S**, Mukherjee R. [Nuisance function tuning and sample splitting for optimally estimating a doubly robust functional](https://arxiv.org/abs/2212.14857). *The Annals of Statistics* (In press).
+* **McGrath S**, Mukherjee R. [Nuisance function tuning and sample splitting for optimally estimating a doubly robust functional](https://arxiv.org/abs/2212.14857). *The Annals of Statistics*. In press.
 * **McGrath S**, Mukherjee D, Mukherjee R, Wang ZJ. [Optimal nuisance function tuning for estimating a doubly robust functional under proportional asymptotics](https://doi.org/10.48550/arXiv.2509.25536). *Advances in Neural Information Processing Systems (NeurIPS)*. Spotlight paper. 2025; 38: 90233-90305.
 * **McGrath S**, Kawahara T, Petimar J, Rifas-Shiman SL, Díaz I, Block JP, Young JG. [Time-smoothed inverse probability weighted estimation of effects of generalized time-varying treatment strategies on repeated outcomes truncated by death](https://doi.org/10.48550/arXiv.2509.13971). *arXiv* (pre-print).
 * **McGrath S**, Lin V, Zhang Z, Petito LC, Logan RW, Hernán MA, Young JG. [gfoRmula: An R package for estimating the effects of sustained treatment strategies via the parametric g-formula](https://doi.org/10.1016/j.patter.2020.100008). *Patterns*. 2020; 1: 100008.
