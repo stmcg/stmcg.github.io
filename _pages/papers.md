@@ -7,11 +7,11 @@ See my [Google Scholar page](https://scholar.google.com/citations?user=t8KnAUsAA
 
 ## Causal Inference
 
-**McGrath S**, Mukherjee R. [Nuisance function tuning and sample splitting for optimally estimating a doubly robust functional](https://arxiv.org/abs/2212.14857). *arXiv* (pre-print). 
-
 **McGrath S**, Kawahara T, Petimar J, Rifas-Shiman SL, Díaz I, Block JP, Young JG. [Time-smoothed inverse probability weighted estimation of effects of generalized time-varying treatment strategies on repeated outcomes truncated by death](https://doi.org/10.48550/arXiv.2509.13971). *arXiv* (pre-print). 
 
 Mathur MB, Seaman S, Zhang W, **McGrath S**, Shpitser I. [Estimating conditional means under missingness-not-at-random with incomplete auxiliary variables](https://doi.org/10.13140/RG.2.2.30750.19524). Pre-print.
+
+**McGrath S**, Mukherjee R. [Nuisance function tuning and sample splitting for optimally estimating a doubly robust functional](https://arxiv.org/abs/2212.14857). *The Annals of Statistics*. In press. 
 
 Kawahara T, **McGrath S**, Young JG. [Illustrating implications of misaligned questions and statistics with competing events and interest in treatment mechanisms](https://doi.org/10.1002/sim.70535). *Statistics in Medicine*. 2026; 45: 70535. 
 
