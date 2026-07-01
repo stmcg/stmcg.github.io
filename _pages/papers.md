@@ -33,7 +33,7 @@ Chiu YH, Yland JJ, Rinaudo P, Hsu J, **McGrath S**, Hernández-Díaz S, Hernán 
 
 ## Data Integration
 
-**McGrath S**, Zhu C, O'Dea R, Guo M, Duan R. [LEARNER: A transfer learning method for low-rank matrix estimation](https://arxiv.org/abs/2412.20605). *arXiv* (pre-print).
+**McGrath S**, Zhu C, O'Dea R, Guo M, Duan R. [LEARNER: A transfer learning method for low-rank matrix estimation](https://arxiv.org/abs/2412.20605). *Statistics in Medicine*. In press.
 
 **McGrath S**, Yang CH, Kimmelman J, Ozturk O, Steele R, Benedetti A. [Meta-analysis of median survival times with inverse-variance weighting](https://doi.org/10.1002/sim.70533). *Statistics in Medicine*. 2026; 45: e70533.
 
