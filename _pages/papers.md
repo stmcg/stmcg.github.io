@@ -9,11 +9,15 @@ See my [Google Scholar page](https://scholar.google.com/citations?user=t8KnAUsAA
 
 **McGrath S**, Kawahara T, Petimar J, Rifas-Shiman SL, Díaz I, Block JP, Young JG. [Time-smoothed inverse probability weighted estimation of effects of generalized time-varying treatment strategies on repeated outcomes truncated by death](https://doi.org/10.48550/arXiv.2509.13971). *arXiv* (pre-print). 
 
+Li J, Rein SM, Wang Z, Wang Z, **McGrath S**, Robins JM, Kolokotrones T, Mukherjee R, Hernán MA. [A plug-in estimator of the non-iterative conditional expectation g-formula using long short-term memory models](https://doi.org/10.48550/arXiv.2610.27354). *arXiv* (pre-print).
+
 Mathur MB, Seaman S, Zhang W, **McGrath S**, Shpitser I. [Estimating conditional means under missingness-not-at-random with incomplete auxiliary variables](https://doi.org/10.13140/RG.2.2.30750.19524). Pre-print.
 
-**McGrath S**, Mukherjee R. [Nuisance function tuning and sample splitting for optimally estimating a doubly robust functional](https://arxiv.org/abs/2212.14857). *The Annals of Statistics*. In press. 
+**McGrath S**, Mukherjee R. [Nuisance function tuning and sample splitting for optimally estimating a doubly robust functional](https://arxiv.org/abs/2212.14857). *The Annals of Statistics*. To appear. 
 
-Kawahara T, **McGrath S**, Young JG. [Illustrating implications of misaligned questions and statistics with competing events and interest in treatment mechanisms](https://doi.org/10.1002/sim.70535). *Statistics in Medicine*. 2026; 45: 70535. 
+Liu B, **McGrath S**, Hou Y, Stuart EA, Parikh H. [Characterizing underrepresentation when generalizing causal survival estimates](https://arxiv.org/abs/2611.11923). *Advances in Neural Information Processing Systems (NeurIPS)*. 2026. To appear.
+
+Kawahara T, **McGrath S**, Young JG. [Illustrating implications of misaligned causal questions and statistics in settings with competing events and interest in treatment mechanisms](https://doi.org/10.1002/sim.70535). *Statistics in Medicine*. 2026; 45: e70535. 
 
 **McGrath S**, Mukherjee D, Mukherjee R, Wang ZJ. [Optimal nuisance function tuning for estimating a doubly robust functional under proportional asymptotics](https://doi.org/10.48550/arXiv.2509.25536). *Advances in Neural Information Processing Systems (NeurIPS)*. Spotlight paper. 2025; 38: 90233-90305.
 
@@ -33,7 +37,7 @@ Chiu YH, Yland JJ, Rinaudo P, Hsu J, **McGrath S**, Hernández-Díaz S, Hernán 
 
 ## Data Integration
 
-**McGrath S**, Zhu C, O'Dea R, Guo M, Duan R. [LEARNER: A transfer learning method for low-rank matrix estimation](https://arxiv.org/abs/2412.20605). *Statistics in Medicine*. In press.
+**McGrath S**, Zhu C, O'Dea R, Guo M, Duan R. [LEARNER: A transfer learning method for low-rank matrix estimation](https://doi.org/10.1002/sim.70669). *Statistics in Medicine*. 2026; 45: e70669.
 
 **McGrath S**, Yang CH, Kimmelman J, Ozturk O, Steele R, Benedetti A. [Meta-analysis of median survival times with inverse-variance weighting](https://doi.org/10.1002/sim.70533). *Statistics in Medicine*. 2026; 45: e70533.
 
@@ -41,7 +45,7 @@ Brümmer LE, Faehling V, **McGrath S**, Zorger AM, Worbes K, Erdmann C, Tolle H,
 
 de Vries TAC, Mallick IU, Bhagirath VC, Eikelboom JW, Gomes C, Yi Q, **McGrath S**, Hirsh J, Chan NC. [Usual on-therapy ranges of drug concentrations in patients with atrial fibrillation treated with direct oral anticoagulants: A systematic review and meta-analysis](https://doi.org/10.1055/a-2446-1348). *Thrombosis and Haemostasis*. 2025; 125: 563-573.
 
-Wang G, **McGrath S**, Lian Y. [CausalMetaR: An R package for performing causally interpretable meta-analyses](https://doi.org/10.1017/rsm.2025.5). *Research Synthesis Methods*. 2025; 16: 425-440. [[Erratum](https://doi.org/10.1017/rsm.2025.22) in: *Research Synthesis Methods*. 2025; 16: 441-441]
+Wang G, **McGrath S**, Lian Y. [CausalMetaR: An R package for performing causally interpretable meta-analyses](https://doi.org/10.1017/rsm.2025.5). *Research Synthesis Methods*. 2025; 16: 425-440. [[Erratum](https://doi.org/10.1017/rsm.2025.22) in: *Research Synthesis Methods*. 2025; 16: 441]
 
 Iskander R, Moyer H, Fergusson D, **McGrath S**, Benedetti A, Kimmelman J. [The benefits and risks of receiving investigational solid tumour drugs in randomized trials: A systematic review and meta-analysis](https://doi.org/10.7326/M23-2515). *Annals of Internal Medicine*. 2024; 177: 759-767.
 
@@ -53,15 +57,12 @@ Lee JH, Garg T, Lee J, **McGrath S**, Rosman L, Schumacher SG, Benedetti A, Qin 
 
 Brümmer LE, Katzenschlager S, **McGrath S**, Schmitz S, Gaeddert M, Erdmann C, Bota M, Grilli M, Larmann J, Weigand MA, Pollock NR, Macé A, Erkosar B, Carmona S, Sacks JA, Ongarello S, Denkinger CM. [Accuracy of rapid point-of-care antigen-based diagnostics for SARS-CoV-2: An updated systematic review and meta-analysis with meta-regression analyzing influencing factors](https://doi.org/10.1371/journal.pmed.1004011). *PLOS Medicine*. 2022; 19: e1004011.
 
-
 Zimmer AJ, Lainati F, Aguilera Vasquez N, Chedid C, **McGrath S**, Benedetti A, MacLean E, Ruhwald M, Denkinger CM, Kohli M. [Biomarkers that correlate with active pulmonary tuberculosis treatment response: A systematic review and meta-analysis](https://doi.org/10.1128/JCM.01859-21). *Journal of Clinical Microbiology*. 2022; 60: e01859-21.
 
-Katzenschlager S, Zimmer AJ, Gottschalk C, Grafeneder J, Seitel A, Maier-Hein L, Benedetti A, Larmann J, Weigand MA, **McGrath S**, Denkinger CM. [Can we predict the severe course of COVID-19 - A systematic review and meta-analysis of indicators of clinical outcome?](https://doi.org/10.1371/journal.pone.0255154) *PLOS One*. 2021; 16: e0255154.
+Katzenschlager S, Zimmer AJ, Gottschalk C, Grafeneder J, Schmitz S, Kraker S, Ganslmeier M, Muth A, Seitel A, Maier-Hein L, Benedetti A, Larmann J, Weigand MA, **McGrath S**, Denkinger CM. [Can we predict the severe course of COVID-19 - A systematic review and meta-analysis of indicators of clinical outcome?](https://doi.org/10.1371/journal.pone.0255154) *PLOS One*. 2021; 16: e0255154.
 
 **McGrath S**, Zhao XF, Steele R, Thombs BD, Benedetti A, and the DEPRESsion Screening Data (DEPRESSD) Collaboration. [Estimating the sample mean and standard deviation from commonly reported quantiles in meta-analysis](https://doi.org/10.1177/0962280219889080). *Statistical Methods in Medical Research*. 2020; 29: 2520-2537.
 
 **McGrath S**, Sohn H, Steele R, Benedetti A. [Meta-analysis of the difference of medians](https://doi.org/10.1002/bimj.201900036). *Biometrical Journal*. 2020; 62: 69-98. 
 
 **McGrath S**, Zhao XF, Qin ZZ, Steele R, Benedetti A. [One-sample aggregate data meta-analysis of medians](https://doi.org/10.1002/sim.8013). *Statistics in Medicine*. 2019; 38: 969-984.
-
-
